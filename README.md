@@ -1,6 +1,7 @@
 # AICTEP3
 This project involves analyzing a dataset to answer 18 key questions related to customer purchasing behaviors, demographics, and trends. The analysis is carried out using Python, with the goal of uncovering insights that can be applied to retail decision-making. This project leverages Exploratory Data Analysis (EDA) techniques, statistical methods, and visualizations to provide comprehensive answers to the following questions.
-#Questions Answered
+
+Questions Answered
 This project addresses the following questions regarding customer shopping behavior:
 
 What is the overall distribution of customer ages in the dataset?
@@ -22,7 +23,7 @@ How does the purchase amount differ based on the review ratings given by custome
 Are there any noticeable differences in purchase behavior between different locations?
 Is there a relationship between customer age and the category of products they purchase?
 
-#Technologies Used
+Technologies Used
 Python 3.x
 Pandas: For data manipulation and analysis.
 NumPy: For numerical calculations.
