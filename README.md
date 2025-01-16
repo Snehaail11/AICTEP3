@@ -40,8 +40,6 @@ This project addresses the following questions regarding customer shopping behav
 
 18.Is there a relationship between customer age and the category of products they purchase?
 
-19.How does the average purchase amount differ between male and female customers?
-
 Technologies Used:
 
 Python 3.x
