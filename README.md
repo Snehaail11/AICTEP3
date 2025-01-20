@@ -50,7 +50,4 @@ Pandas: For data manipulation and analysis.
 NumPy: For numerical calculations.
 
 Matplotlib/Seaborn: For data visualization.
-
-Scikit-learn (optional): For clustering, regression, or predictive modeling.
-
-Jupyter Notebooks (optional): For interactive analysis.
+Colab : For interactive analysis.
